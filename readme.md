@@ -1,4 +1,4 @@
-# git-topics
+# git-topics [![Build Status](https://travis-ci.org/bukinoshita/git-topics.svg?branch=master)](https://travis-ci.org/bukinoshita/git-topics)
 
 > Auto create Github topics for repositories
 
