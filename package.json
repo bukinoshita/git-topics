@@ -6,10 +6,7 @@
   "repository": "https://github.com/bukinoshita/git-topics.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
-  "keywords": [
-    "github",
-    "git"
-  ],
+  "keywords": ["github", "git", "topics", "topic", "repo", "repository", "cli"],
   "scripts": {
     "test": "xo --quiet"
   },
@@ -25,8 +22,6 @@
     "xo": "^0.18.2"
   },
   "xo": {
-    "extends": [
-      "prettier"
-    ]
+    "extends": ["prettier"]
   }
 }
