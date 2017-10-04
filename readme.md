@@ -59,7 +59,7 @@ Github project to add topics
 
 ## Related
 
-- [git-topics-cli](htts://github.com/bukinoshita/git-topics-cli) — CLI for this module
+- [git-topics-cli](https://github.com/bukinoshita/git-topics-cli) — CLI for this module
 
 
 ## License
