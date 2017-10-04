@@ -1,0 +1,32 @@
+{
+  "name": "git-topics",
+  "version": "0.0.0",
+  "description": "Auto create Github topics for repositories",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/git-topics.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "git"
+  ],
+  "scripts": {
+    "test": "xo --quiet"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "git-url-uglify": "^0.0.2",
+    "is-github-repo": "^0.0.2",
+    "read-package": "^0.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "eslint-config-prettier": "^2.6.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": [
+      "prettier"
+    ]
+  }
+}
