@@ -57,6 +57,11 @@ Default: It will try to get `repository` from `package.json`
 Github project to add topics
 
 
+## Related
+
+- [git-topics-cli](htts://github.com/bukinoshita/git-topics-cli) — CLI for this module
+
+
 ## License
 
 MIT © [Bu Kinoshita](https://bukinoshita.io)
