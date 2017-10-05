@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-yarn add git-topics
+$ yarn add git-topics
 ```
 
 
