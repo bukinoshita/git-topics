@@ -31,6 +31,8 @@ module.exports = async (token, { topics, project } = {}) => {
       topics = keywords
     }
 
+    topics = topics.map(arr => arr.toLowerCase())
+
     return axios({
       method: 'put',
       url: `https://api.github.com/repos/${project}/topics`,
