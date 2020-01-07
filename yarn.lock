@@ -1712,9 +1712,9 @@ has-flag@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-2.0.0.tgz#e8207af1cc7b30d446cc70b734b5e8be18f88d51"
 
-has-package@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/has-package/-/has-package-0.0.1.tgz#9cbc6f5b656cbf5bb3840a048741de06acbbd021"
+has-package@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/has-package/-/has-package-1.0.2.tgz#486ab5b4c8e9e391e1f16e0398f30eedfc0957d8"
 
 has-unicode@^2.0.0:
   version "2.0.1"
@@ -2797,11 +2797,11 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-read-package@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/read-package/-/read-package-0.0.1.tgz#304c5069d008a8a32ff69af511c5399d30f80379"
+read-package@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/read-package/-/read-package-1.0.0.tgz#c9694a26f15a2ec248543815a3739baaa455c28b"
   dependencies:
-    has-package "^0.0.1"
+    has-package "1.0.2"
 
 read-pkg-up@^1.0.1:
   version "1.0.1"
