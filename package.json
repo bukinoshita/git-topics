@@ -22,7 +22,7 @@
     "axios": "^0.18.0",
     "git-url-uglify": "^0.0.2",
     "is-github-repo": "^0.0.2",
-    "read-package": "^0.0.1"
+    "read-package": "^1.0.0"
   },
   "devDependencies": {
     "ava": "0.22.0",
