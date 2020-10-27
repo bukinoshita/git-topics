@@ -19,7 +19,7 @@
     "test": "xo --quiet"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.0",
     "git-url-uglify": "^0.0.2",
     "is-github-repo": "^0.0.2",
     "read-package": "^0.0.1"
